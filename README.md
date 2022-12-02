@@ -29,6 +29,6 @@ Simply use the links below to purchase your cuts directly from metal cutting ser
 
 
 ## PSI Housing Assembly Guides
-
+### [Cleaning & Polishing Guide](https://github.com/drolsen/r2d2-psi-housing/wiki/Cleaning-&-Polishing-Guide)
 ### [Front PSI Housing Guide](https://github.com/drolsen/r2d2-psi-housing/wiki/PSI-Front-Assembling)
 ### [Back PSI Housing Guide](https://github.com/drolsen/r2d2-psi-housing/wiki/PSI-Back-Assembling)
