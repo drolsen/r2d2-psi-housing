@@ -1,7 +1,6 @@
 # Aluminum R2D2 Astromech PSI Housings
 
 <img src="/assets/intro.jpg" width="480" />
-<sub>(Note: picture above does not represent current ordered cuts and is of a ealier version)</sub>
 
 Open source R2D2 dome PSI lighting housing aluminum cuts. 
 
