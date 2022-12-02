@@ -1,6 +1,6 @@
 # Aluminum R2D2 Astromech PSI Housings
 
-<img src="/assets/intro.jpg" width="480" />
+<img src="/assets/intro.jpg" />
 
 Open source R2D2 dome PSI lighting housing aluminum cuts. 
 
@@ -29,6 +29,6 @@ Simply use the links below to purchase your cuts directly from metal cutting ser
 
 
 ## PSI Housing Assembly Guides
-
-### [Front PSI Housing Guide](https://github.com/drolsen/r2d2-psi-housing/wiki/Front-PSI-Assembling)
-### [Back PSI Housing Guide](https://github.com/drolsen/r2d2-psi-housing/wiki/Back-PSI-Assembling)
+### [Cleaning & Polishing Guide](https://github.com/drolsen/r2d2-psi-housing/wiki/Cleaning-&-Polishing-Guide)
+### [Front PSI Housing Guide](https://github.com/drolsen/r2d2-psi-housing/wiki/PSI-Front-Assembling)
+### [Back PSI Housing Guide](https://github.com/drolsen/r2d2-psi-housing/wiki/PSI-Back-Assembling)
