@@ -2,9 +2,11 @@
 
 <img src="/assets/intro.jpg" />
 
-Open source R2D2 dome PSI lighting housing aluminum cuts. 
+The front PSI housing has been designed to work with Philip wise's holo-projectors. 
 
-The front PSI housing has been designed to work with Philip wise's holo-projectors. Both front and back housings are designed to work with 1 7/8" x 1/16" PCB sizes which covers the following:
+<img src="/assets/317455864_876173603411019_6171917019506071352_n.jpg" />
+
+Both front and back housings are designed to work with 1 7/8" x 1/16" PCB sizes which covers the following:
 
 - Velcheck PCB
 - Teeces PCB
