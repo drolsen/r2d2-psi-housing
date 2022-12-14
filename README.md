@@ -31,5 +31,7 @@ Simply use the links below to purchase your cuts directly from metal cutting ser
 
 
 ## Guides
+### [Tools](https://github.com/drolsen/r2d2-psi-housing/wiki)
 ### [Cleaning & Polishing Guide](https://github.com/drolsen/r2d2-psi-housing/wiki/Cleaning-&-Polishing-Guide)
+### [Protecting PCBs Guide](https://github.com/drolsen/r2d2-psi-housing/wiki/Protecting-PCBs)
 ### [PSI Housing Assemble Guide](https://github.com/drolsen/r2d2-psi-housing/wiki/PSI-Housing-Assembling)
